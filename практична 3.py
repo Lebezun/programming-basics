@@ -1,7 +1,7 @@
 kratos = {
     "name": "Kratos",
     "age": 3000,
-    "address": {
+    "Other": {
         "city": "Sparta",
         "street": "there is no",
         "weapon 1":"Leviathan Axe",
