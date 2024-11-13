@@ -3,7 +3,7 @@ import requests
 from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, CallbackContext
 
-API_KEY = "6e1459c841a45c152650b135d1ccc147"  # Вставте ваш API ключ
+API_KEY = "6e1459c841a45c152650b135d1ccc147" 
 API_URL = "https://api.themoviedb.org/3/discover/movie"
 
 GENRES = {
